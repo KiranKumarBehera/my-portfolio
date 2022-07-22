@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "avatar": "assets/avatar1.jpg",
+    "name": "Abhishek Ku. Gupta",
+    "review": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore et eos blanditiis, cum ducimus eveniet excepturi cupiditate fugit asperiores, quisquam dolorum provident deleniti ab! Cumque minima hic quibusdam numquam molestiae."
+  },
+  {
+    "id": 2,
+    "avatar": "assets/avatar2.jpg",
+    "name": "Abhijit Tripathy",
+    "review": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore et eos blanditiis, cum ducimus eveniet excepturi cupiditate fugit asperiores, quisquam dolorum provident deleniti ab! Cumque minima hic quibusdam numquam molestiae."
+  },
+  {
+    "id": 3,
+    "avatar": "assets/avatar3.jpg",
+    "name": "Amogh P. Pete",
+    "review": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore et eos blanditiis, cum ducimus eveniet excepturi cupiditate fugit asperiores, quisquam dolorum provident deleniti ab! Cumque minima hic quibusdam numquam molestiae."
+  },
+  {
+    "id": 4,
+    "avatar": "assets/avatar4.jpg",
+    "name": "Himanshu Gupta",
+    "review": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore et eos blanditiis, cum ducimus eveniet excepturi cupiditate fugit asperiores, quisquam dolorum provident deleniti ab! Cumque minima hic quibusdam numquam molestiae."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "assets/portfolio1.png",
+    "title": "Instagram Clone",
+    "github": "https://github.com/KiranKumarBehera/instagram-clone",
+    "demo": "https://instagram-clone-react-d7465.web.app"
+  },
+  {
+    "id": 2,
+    "image": "assets/portfolio2.png",
+    "title": "Food Ordering App",
+    "github": "https://github.com/KiranKumarBehera/food-ordering-app",
+    "demo": "https://food-order-app-76679.web.app"
+  },
+  {
+    "id": 3,
+    "image": "assets/portfolio3.png",
+    "title": "Parallax Scroller",
+    "github": "https://github.com/KiranKumarBehera/Parallax_scroller",
+    "demo": "https://k-e44020iran.netlify.app/"
+  },
+  {
+    "id": 4,
+    "image": "assets/portfolio4.png",
+    "title": "Weather App",
+    "github": "https://github.com/KiranKumarBehera/Weather_app",
+    "demo": "https://weather-app-9e690.web.app"
+  },
+  {
+    "id": 5,
+    "image": "assets/portfolio5.png",
+    "title": "Admin Dashboard",
+    "github": "https://github.com/KiranKumarBehera/dashboard",
+    "demo": "https://dashboard-48376.web.app"
+  },
+  {
+    "id": 6,
+    "image": "assets/portfolio6.png",
+    "title": "Glow Button",
+    "github": "https://github.com/KiranKumarBehera/glow-button",
+    "demo": "https://codepen.io/HERO08012001/pen/MWVJXJK"
+  }
+]
